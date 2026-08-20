@@ -183,8 +183,7 @@ Login successful. Welcome Jane (user)
 ```
 
 ## Demo Video
-
-📹 [Watch the project demonstration]( <ADD_YOUR_DEMO_VIDEO_LINK_HERE> )
+ [Watch the project demonstration](  )
 
 ## Author
 
